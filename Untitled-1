@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>موقع مشاريعي البرمجية</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; padding: 50px; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>مرحباً، أنا مبرمج بايثون</h1>
+        <p>هنا سأعرض جميع مشاريعي التي أتعلمها.</p>
+        <hr>
+        <h3>مشاريعي الحالية:</h3>
+        <p>1. مشروع واجهة المستخدم (قيد التطوير)</p>
+    </div>
+</body>
+</html>
+
